@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\HomeWorkDesignPattern\HomeWorkDesignPattern\bin\Debug\HomeWorkDesignPattern.exe.config
+C:\Users\Lenovo\source\repos\HomeWorkDesignPattern\HomeWorkDesignPattern\bin\Debug\HomeWorkDesignPattern.exe
+C:\Users\Lenovo\source\repos\HomeWorkDesignPattern\HomeWorkDesignPattern\bin\Debug\HomeWorkDesignPattern.pdb
+C:\Users\Lenovo\source\repos\HomeWorkDesignPattern\HomeWorkDesignPattern\obj\Debug\HomeWorkDesignPattern.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\HomeWorkDesignPattern\HomeWorkDesignPattern\obj\Debug\HomeWorkDesignPattern.exe
+C:\Users\Lenovo\source\repos\HomeWorkDesignPattern\HomeWorkDesignPattern\obj\Debug\HomeWorkDesignPattern.pdb
